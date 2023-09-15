@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "onboarding-lottie-rn",
+    "slug": "onboarding-lottie-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
